@@ -1,6 +1,8 @@
 # tic_tac_toe
 
-A new Flutter project.
+Tic Tac Toe, also known as "X and O," is a timeless and beloved two-player game. The goal is simple: get three of your marks in a row horizontally, vertically, or diagonally on the 3x3 game board.
+
+For my Flutter Spin on the Classic Game, I wanted to recreate the traditional Tic Tac Toe experience while adding some delightful elements with Flutter. The game comes with a beautiful and intuitive user interface and smooth gameplay. This app offers a seamless and enjoyable experience for all ages!
 
 ## Getting Started
 
